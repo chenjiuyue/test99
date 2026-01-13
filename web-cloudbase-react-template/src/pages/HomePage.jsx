@@ -41,10 +41,10 @@ const HomePage = () => {
         className="text-center mb-16"
       >
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          CloudBase React 模板 0109 chriscc-git-push 11:51
+          CloudBase React 模板 0113  chriscc-git-push 18:30
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-80">
-          快速开始构建集成了腾讯云开发能力的现代化 React 应用 0113 chriscc-git-push 18:20
+          快速开始构建集成了腾讯云开发能力的现代化 React 应用 0113 chriscc-git-push 18:30
         </p>
       </motion.div>
 
