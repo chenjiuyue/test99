@@ -44,7 +44,7 @@ const HomePage = () => {
           CloudBase React 模板 0109 chriscc-git-push 11:51
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-80">
-          快速开始构建集成了腾讯云开发能力的现代化 React 应用 0109 chriscc-git-push 11:51
+          快速开始构建集成了腾讯云开发能力的现代化 React 应用 0113 chriscc-git-push 18:20
         </p>
       </motion.div>
 
